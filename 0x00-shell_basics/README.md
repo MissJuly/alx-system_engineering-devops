@@ -12,3 +12,4 @@ task 10- script that changes to previous directory
 task 11- script that prints all files in ., .., /boot directory
 task 12- script that shows file type
 task 13- script that creates a symbolic link
+task 14- script that copies(updates) all html files
