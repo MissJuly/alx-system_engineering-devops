@@ -17,3 +17,4 @@ task 15- script that moves all files beginning with upper case
 task 16- script that delete all files ending with ~
 task 17- script that creates multiple directories
 task 18- script that lists contents in commas
+task 19- script that detects School data files
