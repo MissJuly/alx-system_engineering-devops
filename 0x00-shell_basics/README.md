@@ -4,3 +4,4 @@ task 2- script that prints changing from the working directory to the user's hom
 task 3- script that prints contents in long format
 task 4- script that prints all contents in long format
 task 5- script that prints UID and GID
+task 6- script that creates a directory
