@@ -15,3 +15,4 @@ task 13- script that creates a symbolic link
 task 14- script that copies(updates) all html files
 task 15- script that moves all files beginning with upper case
 task 16- script that delete all files ending with ~
+task 17- script that creates multiple directories
