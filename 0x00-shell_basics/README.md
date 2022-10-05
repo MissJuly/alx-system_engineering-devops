@@ -6,3 +6,4 @@ task 4- script that prints all contents in long format
 task 5- script that prints UID and GID
 task 6- script that creates a directory
 task 7- script that moves files to another directory
+task 8- script that delete files in another directory
