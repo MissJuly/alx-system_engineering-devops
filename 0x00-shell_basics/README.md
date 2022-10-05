@@ -10,3 +10,4 @@ task 8- script that deletes file in another directory
 task 9- script that deletes a directory inside another directory
 task 10- script that changes to previous directory
 task 11- script that prints all files in ., .., /boot directory
+task 12- script that shows file type
