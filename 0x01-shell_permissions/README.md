@@ -12,4 +12,5 @@ task 9- script that sets the mode of the file hello to this:-rwxr-x-wx
 task 10- script that sets the mode of the file hello the same as olleh’s mode
 task 11- script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 task 12- script that creates a directory called my_dir with permissions 751 in the working directory
-task 13- script that changes the group owner to school for the file hello 
+task 13- script that changes the group owner to school for the file hello
+task 14- script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory 
