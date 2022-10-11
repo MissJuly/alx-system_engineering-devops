@@ -24,7 +24,7 @@
 `Write a script that displays the third line of the file iacta.`
 ~~~~
  * The file iacta will be in the working directory
- * **You’re not allowed to use sed**
+ * You’re not allowed to use sed
 ~~~~
 
 7. *7-file*
@@ -36,7 +36,7 @@
 9. *9-duplicate_last_line*
 `Write a script that duplicates the last line of the file iacta`
 ~~~~
-* The file iacta will be in the working directory.`
+* The file iacta will be in the working directory.
 ~~~~
 
 10. *10-no_more_js*
@@ -80,7 +80,7 @@
 18. *18-lettersonly*
 `Display all lines of the file /etc/ssh/sshd_config starting with a letter.`
 ~~~~
-* include capital letters as well`
+* include capital letters as well
 ~~~~
 
 19. *19-AZ*
@@ -92,4 +92,8 @@
 21. *21-reverse*
 `Write a script that reverse its input.`
 
-
+22. *22-users_and_homes*
+`Write a script that displays all users and their home directories, sorted by users.`
+~~~~
+* Based on the the /etc/passwd file
+~~~~
