@@ -35,7 +35,9 @@
 
 9. *9-duplicate_last_line*
 `Write a script that duplicates the last line of the file iacta`
-` * The file iacta will be in the working directory.`
+~~~~
+* The file iacta will be in the working directory.`
+~~~~
 
 10. *10-no_more_js*
 `Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.`
@@ -74,5 +76,11 @@
 
 17. *17-hidethisword*
 `Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.`
+
+18. *18-lettersonly*
+`Display all lines of the file /etc/ssh/sshd_config starting with a letter.`
+~~~~
+* include capital letters as well`
+~~~~
 
 
