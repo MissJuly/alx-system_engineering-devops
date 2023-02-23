@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+#Displays numbers 1-100, multiples of 3 Fizz,
+#multiples of 5 -Buzz, multiples of 3 and 5 -FizzBuzz
+
+for (( counter=1; counter<=100; counter++ ))
+do
+    if (( counter % 3 == 0 && counter % 5 == 0))
+    then
+        echo "FizzBuzz"
+    elif (( counter % 3 == 0 ))
+    then
+        echo "Fizz"
+    elif (( counter % 5 == 0 ))
+    then
+        echo "Buzz"
+    else
+        echo $counter
+    fi
+done
