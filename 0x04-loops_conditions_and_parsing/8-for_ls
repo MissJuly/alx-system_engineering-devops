@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#Displays content directory in a list format
+
+for counter in *
+do
+    echo "$counter" | cut -d "-" -f2
+done
