@@ -87,5 +87,5 @@ You must add to [2-secured_and_monitored_web_infrastructure](2-secured_and_monit
 | [`3-scale_up`](3-scale_up) | Web Infrastructure Design, based on `2-secured_and_monitored_web_infrastructure` that contains some additional components: 1 server, 1 load-balancer |
 
 Authors
-Imran Barissa[https://github.com/Barissa-Imran](https://github.com/Barissa-Imran)
-Joy Gitau -[https://github.com/MissJuly](https://github.com/MissJuly)
+Imran Barissa - [Barissa-Imran](https://github.com/Barissa-Imran)
+Joy Gitau - [MissJuly](https://github.com/MissJuly)
